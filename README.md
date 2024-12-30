@@ -1,8 +1,9 @@
-### 🍂 It's autumn time. Don't forget to go for a walk.🍃
+### ☃️Oh, it's winter
 - 👋 Hi, I'm Tivik
-- 👾 C# and 🐍Python
-- 😒 Nobody knows me
-- ✨ Enthusiast
+- 👾 C# is nice
+- 🐍 Python is so universal
+- 🕸️ HTML, CSS, JS just fine
+
 
 <!---
 tivikdev/tivikdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
