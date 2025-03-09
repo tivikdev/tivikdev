@@ -1,4 +1,4 @@
-### 🌱 Yay, it's sunner
+### 🌱 Yay, it's summer
 - 👋 Hi, I'm Tivik
 - 👾 C# is nice
 - 🐍 Python is so universal
