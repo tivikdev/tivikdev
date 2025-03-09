@@ -1,8 +1,8 @@
-### ☃️Oh, it's winter
+### 🌱 Yay, it's sunner
 - 👋 Hi, I'm Tivik
 - 👾 C# is nice
 - 🐍 Python is so universal
-- 🕸️ HTML, CSS, JS just fine
+- 🕸️ HTML, CSS, JS are just fine
 
 
 <!---
